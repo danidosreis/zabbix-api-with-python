@@ -1,4 +1,4 @@
-# zabbix-api-trigger.get-with-python
+# zabbix-api-trigger-with-python
 
 Sistema para criar manutenção de trigger no zabbix
 
